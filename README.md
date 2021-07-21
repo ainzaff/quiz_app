@@ -1,7 +1,7 @@
 # first_app
 
 My first Flutter project. This is a simple quiz that matches your answers with the results. Based on your answers, it assigns you to one of 9 NBA players.
-
+This app is designed for Pixel 2's screen.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
